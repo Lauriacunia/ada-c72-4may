@@ -29,3 +29,7 @@ https://drive.google.com/file/d/1Dy2QIjAxa9iLNWyTINbZ93_yhyiuDivU/view?usp=shari
 
 - Modelado de datos
   https://www.bigbox.com.uy/
+
+## Export e Import DB
+
+https://docs.google.com/document/d/15D8wVlqsUaM77019S4ctsqQYAz4sRPxmBERYeztarKA/edit?usp=sharing
